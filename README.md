@@ -1,4 +1,4 @@
-# [NIM] - Pengantar Machine Learning
+# [231230036] - Pengantar Machine Learning
 
 **Nama:** [Buvan Alfarezy]
 
