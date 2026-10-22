@@ -1,7 +1,9 @@
 # [NIM] - Pengantar Machine Learning
 
 **Nama:** [Buvan Alfarezy]
+
 **NIM:** [231230036]
+
 **Kelas:** [05 B]
 
 Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
