@@ -1,2 +1,10 @@
-# 231230036--BuvanAlfarezy--Pengantar-Ml
-Repository untuk mata kuliah Pengantar Machine Learning - [Buvan Alfarezy] - [231230036]
+# [NIM] - Pengantar Machine Learning
+
+**Nama:** [Buvan Alfarezy]
+**NIM:** [231230036]
+**Kelas:** [05 B]
+
+Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
+
+## Daftar Tugas
+- **Minggu 3:** [Setup Environment - Hello World](https://colab.research.google.com/github/[BuvanAlfarezy]/[231230036]-Pengantar-ML/blob/main/Tugas_Minggu_1_Hello_World.ipynb)
