@@ -17,4 +17,4 @@ Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Penga
 
 - **Tugas Praktikum 3:** [Praktikum 3 - Manipulasi Data Tabular dengan Pandas](https://colab.research.google.com/github/BuvanAlfarezy/231230036-BuvanAlfarezy-Pengantar-Ml/blob/main/Tugas_Praktikum_ke_3_Manipulasi_Data_Tabular_dengan_Pandas.ipynb)
 
-- **Tugas Praktikum 4:** [Praktikum 4 - Struktur Data](https://colab.research.google.com/github/BuvanAlfarezy/231230036-BuvanAlfarezy-Pengantar-Ml/blob/main/Tugas_Praktikum_Minggu_ke_4_Struktur_Data.ipynb)
+- **Tugas Praktikum 4:** [Praktikum 4 -Pengenalan Tensor pada PyTorch](https://colab.research.google.com/github/BuvanAlfarezy/231230036-BuvanAlfarezy-Pengantar-Ml/blob/main/Tugas_Praktikum_ke_4_Tensor_pada_PyTorch.ipynb)
