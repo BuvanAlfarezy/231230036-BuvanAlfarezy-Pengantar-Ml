@@ -10,3 +10,5 @@ Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Penga
 
 ## Daftar Tugas
 - **Minggu 3:** [Setup Environment - Hello World](https://colab.research.google.com/github/BuvanAlfarezy/231230036-BuvanAlfarezy-Pengantar-Ml/blob/main/Tugas_Minggu_3_Hello_World.ipynb)
+
+- **Tugas Praktikum 4:** [Setup Environment - Hello World](https://colab.research.google.com/github/BuvanAlfarezy/231230036-BuvanAlfarezy-Pengantar-Ml/blob/main/Tugas Praktikum Minggu ke-4: Struktur Data.ipynb)
